@@ -62,9 +62,6 @@ My contribution graph reflects active daily commits across these private project
 
 For architecture breakdowns, engineering decisions, and case studies on select projects, see my [portfolio repo](#).
 
-The only public code available is a sanitized portfolio version of the Polymath Coffee loyalty app: [mhassan50/FREDLoyalty-App](https://github.com/mhassan50/FREDLoyalty-App) — API credentials, OAuth IDs, Firebase config, and brand assets have been removed from that version.
-
-
 ---
 
 ## 🛠 Tech Stack
