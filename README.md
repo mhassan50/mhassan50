@@ -54,6 +54,19 @@ My day-to-day spans .NET MAUI cross-platform mobile, ASP.NET Core APIs, Blazor S
 
 ---
 
+## 📌 Note on Repositories
+
+All projects listed under "What I'm Building" are production systems built as part of my role at East Gate Industries. Per company policy, source code for all active work projects is maintained in private repositories and cannot be shared publicly.
+
+My contribution graph reflects active daily commits across these private projects.
+
+For architecture breakdowns, engineering decisions, and case studies on select projects, see my [portfolio repo](#).
+
+The only public code available is a sanitized portfolio version of the Polymath Coffee loyalty app: [mhassan50/FREDLoyalty-App](https://github.com/mhassan50/FREDLoyalty-App) — API credentials, OAuth IDs, Firebase config, and brand assets have been removed from that version.
+
+
+---
+
 ## 🛠 Tech Stack
 
 ```text
@@ -61,3 +74,4 @@ Mobile        .NET MAUI (Android + iOS)
 Backend       ASP.NET Core · Web API · REST & SOAP · JWT/OAuth
 Frontend      Blazor Server · React.js
 AI & Data     Semantic Kernel · RAG · Ollama · Qdrant · Azure
+
